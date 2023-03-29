@@ -6,7 +6,7 @@ import ReactFlipCard from "reactjs-flip-card";
 const Counter = () => {
   function calculateTimeLeft() {
     const year = new Date().getFullYear();
-    const difference = +new Date(`${year}-4-12`) - +new Date();
+    const difference = +new Date(`${year}-5-12`) - +new Date();
     let timeLeft = {};
     if (difference > 0) {
       timeLeft = {

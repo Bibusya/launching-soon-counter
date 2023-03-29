@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-import ReactFlipCard from "reactjs-flip-card";
+import React from "react";
 import {
   CounterItemBottom,
   CounterItemContainer,
